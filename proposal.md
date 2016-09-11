@@ -22,7 +22,7 @@ In addition, this project will include:
 
 This app will consist of a single screen with game grid, game controls, and nav links to the Github and my LinkedIn.  Game controls will include Start, Stop, and Reset buttons as well as a picture of what keys to use for game play. On the left will be an array of the pieces that are coming up next. On the right there will be the picture of what keys to use along with the buttons to start, pause, and reset.
 
-![wireframes](https://github.com/forestturner/tetris/tetris_wireframe.png)
+![wireframes](https://github.com/forestturner/tetris/blob/master/tetris_wireframe.png)
 
 ### Architecture and Technologies
 
